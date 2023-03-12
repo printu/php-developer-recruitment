@@ -1,4 +1,4 @@
-[![pagepro_logo](https://git.freshmind.pl/uploads/-/system/project/avatar/124/pobrane.png?width=64)](https://printu.pl/)
+[![pagepro_logo](https://avatars.githubusercontent.com/u/15818995?s=96&v=4)](https://printu.pl/)
 
 # PHP Developer - Rekrutacja
 
