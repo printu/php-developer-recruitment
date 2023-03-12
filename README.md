@@ -79,7 +79,7 @@ public function findUniqueString(string $s): int
 Unikalne znaki to `[a, c]` z których `a` występuje pierwsze. Wg indexu zaczynającego się od `1`, znak `a` znajduje się na `3` pozycji.
 
 ### Ograniczenia
- - 1 <= length(s) <= 10
+ - 1 <= length(s) <= 10<sup>5</sup>
  - `s` zawiera tylko małe litery angielskie
 
 
